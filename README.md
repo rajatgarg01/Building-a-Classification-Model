@@ -39,18 +39,12 @@ tabulate
 You can install the required dependencies using the following command:
 
 bash
-Copy code
 pip install pandas numpy seaborn matplotlib scikit-learn xgboost tabulate
 Usage
 Clone the Repository:
 
-bash
-Copy code
-git clone <repository-link>
-Open the Notebook:
 
 bash
-Copy code
 jupyter notebook Assignment.ipynb
 Run the Notebook: Execute the cells in sequence to perform the full analysis.
 
